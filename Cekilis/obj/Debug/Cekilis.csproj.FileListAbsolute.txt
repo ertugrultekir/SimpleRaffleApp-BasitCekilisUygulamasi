@@ -1,0 +1,11 @@
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\KullanilanProjeler\Cekilis\Cekilis\bin\Debug\Cekilis.exe.config
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\KullanilanProjeler\Cekilis\Cekilis\bin\Debug\Cekilis.exe
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\KullanilanProjeler\Cekilis\Cekilis\bin\Debug\Cekilis.pdb
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\KullanilanProjeler\Cekilis\Cekilis\obj\Debug\Cekilis.csprojAssemblyReference.cache
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\KullanilanProjeler\Cekilis\Cekilis\obj\Debug\Cekilis.Form1.resources
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\KullanilanProjeler\Cekilis\Cekilis\obj\Debug\Cekilis.Properties.Resources.resources
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\KullanilanProjeler\Cekilis\Cekilis\obj\Debug\Cekilis.csproj.GenerateResource.cache
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\KullanilanProjeler\Cekilis\Cekilis\obj\Debug\Cekilis.csproj.CoreCompileInputs.cache
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\KullanilanProjeler\Cekilis\Cekilis\obj\Debug\Cekilis.exe
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\KullanilanProjeler\Cekilis\Cekilis\obj\Debug\Cekilis.pdb
+C:\Users\Ertugrul-PC\Desktop\Bilge Adam Dersler\KullanilanProjeler\Cekilis\Cekilis\obj\Debug\Cekilis.MesajFormu.resources
